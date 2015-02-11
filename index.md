@@ -14,13 +14,13 @@ Non-coding sequences present a striking interest since they govern the regulatio
 expression.
 
 The [Regulatory Sequence Analysis Tools (RSAT)](http://rsat.eu) modular computer programs specifically designed for the detection of regulatory signals in non-coding sequences.
-RSAT servers have been up and running since 1997. The project was initiated by Jacques van Helden <jacques.van-helden@univ-amu.fr>, and is now pursued by the RSAT team. 
+RSAT servers have been up and running since 1997. The project was initiated by **Jacques van Helden** <jacques.van-helden@univ-amu.fr>, and is now pursued by the RSAT team. 
 
 #### A dedicated server for learning
 
-To learn how to use RSAT, we recommend you to use the dedicated server (http://teaching.rsat.eu/)
+To learn how to use RSAT, we recommend you to use the dedicated server [http://teaching.rsat.eu/](http://teaching.rsat.eu/).
 
-*Although tutorials and protocols used to indicate other URLs (like http://rsat.ulb.ac.be), we now recommend to use (http://teaching.rsat.eu/).
+*Although tutorials and protocols used to indicate other URLs (like http://rsat.ulb.ac.be), we now recommend to use [http://teaching.rsat.eu/](http://teaching.rsat.eu/).*
 
 #### Where to start ?
 
@@ -45,39 +45,34 @@ regulatory signals in nucleic sequences</a>. Nat Protoc, 3,
 J. (2008) <a
 target='_blank' href='http://www.ncbi.nlm.nih.gov/pubmed/18802441'>Analyzing multiple data sets by interconnecting RSAT
 programs via SOAP Web services-an example with ChIP-chip data</a>. Nat
-Protoc, 3,
-1604-1615.
+Protoc, 3,1604-1615.
 
 #### Hands-on Tutorials
-	* ECCB 2014 tutorial (covers access via Web site, command-line and Web services) 
+
+* ECCB 2014 tutorial (covers access via Web site, command-line and Web services): 
 	<a target='_blank' href="http://rsa-tools.github.io/tutorial_eccb14/index.html"> Analysis of Cis-Regulatory Motifs from High-Throughput Sequence Sets</a>.
 	
-	* Tutorials of individual tools: [http://teaching.rsat.eu/rsat/tutorials/]
+* Tutorials of individual tools on the RSAT Web site: [http://teaching.rsat.eu/rsat/tutorials/](http://teaching.rsat.eu/rsat/tutorials/)
 
-### Complete course on analysis of regulatory sequences
-	* Course by Jacques van Helden : [http://rsa-tools.github.io/course/]
+#### Complete course on analysis of regulatory sequences
 
-### Which tool to choose ?
+* Course by Jacques van Helden : [http://rsa-tools.github.io/course/](http://rsa-tools.github.io/course/)
+
+#### Which tool to choose ?
+
+The home page of each RSAT server has a section to help finding the appropriate program, based on the type of data and question. Only main tasks are supported, as this is meant to new users.
+
+![Guide to RSAT programs](images/dropdown_questions.png)
 
 
+#### Even more resources...
 
+* Workshop: [ChIP-Seq Data Analysis] (http://morganetc.github.io/atelier_chip-seq_roscoff_2014/), in the context of Ecole de bioinformatique AVIESAN 2014, Station Biologique, Roscoff, France.
 
-Pour les autres sites de formation (MICROME, ALLBIO, ateliers Inserm) je crains que le matériel ne soit obsolète.
-
-On pourrait éventuellement maintenir sous github le matériel exclusivement consacré à RSAT (course, ECCB2014), et avoir une avec des liens 
-
-- vers les ressources des sites Web RSAT
-	http://teaching.rsat.eu/rsat/tutorials/
-
-- les guides d'installation et d'utilisation en ligne (les pdf de doc/manuals)
-	je crois que ceux-là doivent faire partie de la distrib RSAT elle-même.
-
-- vers du matériel complémentaire
-
-	Le site de Roscoff
-
-	Statistics for bioinformatics
-		http://pedagogix-tagc.univ-mrs.fr/courses/statistics_bioinformatics/
+* Course by Jacques van Helden : [Statistics for bioinformatics](http://pedagogix-tagc.univ-mrs.fr/courses/statistics_bioinformatics/)
  
-	ALLBIO training workshop "Analysing thousands of bacterial genomes: gene annotation, metabolism and regulation"
-		http://pedagogix-tagc.univ-mrs.fr/allbio/
+* ALLBIO training workshop 2014 [Analysing thousands of bacterial genomes: gene annotation, metabolism and regulation](http://pedagogix-tagc.univ-mrs.fr/allbio/)
+
+
+#### Contact and Questions
+Check out the [RSAT forum](http://www.bigre.ulb.ac.be/forums/) to see questions of users or to contact the RSAT team.
