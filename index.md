@@ -62,11 +62,11 @@ Protoc, 3,1604-1615.
 
 The home page of each RSAT server has a section to help finding the appropriate program, based on the type of data and question. Only main tasks are supported, as this is meant to new users.
 
-<IMG border=1 SRC="images/dropdown_questions.png" ALT="Guide to RSAT programs" height=100/>
+<IMG border=1 SRC="images/dropdown_questions.png" ALT="Guide to RSAT programs" height=200/>
 
 Also check the map of the tools (version 2012):
 
-<IMG border=1 SRC="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png" ALT="flowchart RSAT"/>
+<a href="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.pdf"><IMG border=1 SRC="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png" ALT="flowchart RSAT" height=200/></a>
 
 #### Even more resources...
 
