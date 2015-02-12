@@ -5,9 +5,7 @@ title: RSAT teaching
 
 ### Welcome to RSAT Training material
 
-#### Context of RSAT
-
-The [Regulatory Sequence Analysis Tools (RSAT)](http://rsat.eu) modular computer programs specifically designed for the detection of regulatory signals in non-coding sequences.
+The [Regulatory Sequence Analysis Tools (RSAT)](http://rsat.eu) comprises modular computer programs specifically designed for the detection of regulatory signals in non-coding sequences.
 RSAT servers have been up and running since 1997. The project was initiated by **[Jacques van Helden](http://jacques.van-helden.perso.luminy.univ-amu.fr/)**, and is now pursued by the RSAT team. 
 
 #### A dedicated server for learning
