@@ -6,15 +6,9 @@ title: RSAT teaching
 ### Welcome to RSAT Training material
 
 #### Context of RSAT
-The release of complete genomic sequences not only offered a huge
-amount of new data for the molecular biologist, but also impulsed the
-development of new computational techniques required for the analysis
-of these data.
-Non-coding sequences present a striking interest since they govern the regulation of gene
-expression.
 
 The [Regulatory Sequence Analysis Tools (RSAT)](http://rsat.eu) modular computer programs specifically designed for the detection of regulatory signals in non-coding sequences.
-RSAT servers have been up and running since 1997. The project was initiated by **Jacques van Helden** <jacques.van-helden@univ-amu.fr>, and is now pursued by the RSAT team. 
+RSAT servers have been up and running since 1997. The project was initiated by **[Jacques van Helden](http://jacques.van-helden.perso.luminy.univ-amu.fr/)**, and is now pursued by the RSAT team. 
 
 #### A dedicated server for learning
 
@@ -49,10 +43,11 @@ Protoc, 3,1604-1615.
 
 #### Hands-on Tutorials
 
+* Tutorials of individual tools on the RSAT Web site: [http://teaching.rsat.eu/rsat/tutorials/](http://teaching.rsat.eu/rsat/tutorials/)
+
 * ECCB 2014 tutorial (covers access via Web site, command-line and Web services): 
 	<a target='_blank' href="http://rsa-tools.github.io/tutorial_eccb14/index.html"> Analysis of Cis-Regulatory Motifs from High-Throughput Sequence Sets</a>.
 	
-* Tutorials of individual tools on the RSAT Web site: [http://teaching.rsat.eu/rsat/tutorials/](http://teaching.rsat.eu/rsat/tutorials/)
 
 #### Complete course on analysis of regulatory sequences
 
@@ -62,11 +57,11 @@ Protoc, 3,1604-1615.
 
 The home page of each RSAT server has a section to help finding the appropriate program, based on the type of data and question. Only main tasks are supported, as this is meant to new users.
 
-<IMG border=1 SRC="images/dropdown_questions.png" ALT="Guide to RSAT programs" height=200/>
+<a href="http://teaching.rsat.eu" target="_blank"><IMG border=1 SRC="images/dropdown_questions.png" ALT="Guide to RSAT programs" height=200/></a>
 
 Also check the map of the tools (version 2012):
 
-<a href="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.pdf"><IMG border=1 SRC="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png" ALT="flowchart RSAT" height=200/></a>
+<a href="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png"><IMG border=1 SRC="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png" ALT="flowchart RSAT" height=200/></a>
 
 #### Even more resources...
 
