@@ -8,7 +8,7 @@ title: RSAT teaching
 The [Regulatory Sequence Analysis Tools (RSAT)](http://rsat.eu) comprises modular computer programs specifically designed for the detection of regulatory signals in non-coding sequences.
 RSAT servers have been up and running since 1997. The project was initiated by **[Jacques van Helden](http://jacques.van-helden.perso.luminy.univ-amu.fr/)**, and is now pursued by the RSAT team. 
 
-<a href="http://teaching.rsat.eu" target="_blank"><IMG border=1 SRC="images/F1.large.jpg" ALT="Guide to RSAT programs" height=200/></a>
+<a href="images/F1.large.jpg"><IMG border=1 SRC="images/F1.large.jpg" ALT="Guide to RSAT programs" height=200/></a>
 
 #### A dedicated server for learning
 
