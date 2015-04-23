@@ -17,8 +17,10 @@ To learn how to use RSAT, we recommend you to use the dedicated server [http://t
 #### Where to start ?
 
 * To get an **overview** of the tools, you may read the latest description in *NAR web server issue*: 
-Thomas-Chollier M, Defrance M, Medina-Rivera A, Sand O, Herrmann C, Thieffry D, van Helden J. (2011) 
-<a href="http://nar.oxfordjournals.org/content/39/suppl_2/W86.long" target="_blank">RSAT 2011: regulatory sequence analysis tools</a>. Nucleic Acids Res. 2011 Jul;39(Web Server issue):W86-91.
+
+Medina-Rivera A, Defrance M, Sand O, Herrmann C, Castro-Mondragon J, Delerce J, Jaeger S, Blanchet C, Vincens P, Caron C, Staines DM, Contreras-Moreira B, Artufel M, Charbonnier-Khamvongsa L, Hernandez C, Thieffry D, Thomas-Chollier M, van Helden J (2015)
+<a href='http://nar.oxfordjournals.org/content/early/2015/04/21/nar.gkv362.full'> RSAT 2015: Regulatory Sequence Analysis Tools </a>. Nucleic Acids Res. 2015 (Web Server issue) in press.
+
 
 * Several protocols have been published to guide new users. *Some of the content might be outdated, but the theory and general principles are still valid*
 
