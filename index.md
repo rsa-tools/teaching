@@ -8,6 +8,8 @@ title: RSAT teaching
 The [Regulatory Sequence Analysis Tools (RSAT)](http://rsat.eu) comprises modular computer programs specifically designed for the detection of regulatory signals in non-coding sequences.
 RSAT servers have been up and running since 1997. The project was initiated by **[Jacques van Helden](http://jacques.van-helden.perso.luminy.univ-amu.fr/)**, and is now pursued by the RSAT team. 
 
+<a href="http://teaching.rsat.eu" target="_blank"><IMG border=1 SRC="F1.large.jpg" ALT="Guide to RSAT programs" height=200/></a>
+
 #### A dedicated server for learning
 
 To learn how to use RSAT, we recommend you to use the dedicated server [http://teaching.rsat.eu/](http://teaching.rsat.eu/).
@@ -19,7 +21,7 @@ To learn how to use RSAT, we recommend you to use the dedicated server [http://t
 * To get an **overview** of the tools, you may read the latest description in *NAR web server issue*: 
 
 Medina-Rivera A, Defrance M, Sand O, Herrmann C, Castro-Mondragon J, Delerce J, Jaeger S, Blanchet C, Vincens P, Caron C, Staines DM, Contreras-Moreira B, Artufel M, Charbonnier-Khamvongsa L, Hernandez C, Thieffry D, Thomas-Chollier M, van Helden J (2015)
-<a href='http://nar.oxfordjournals.org/content/early/2015/04/21/nar.gkv362.full'> RSAT 2015: Regulatory Sequence Analysis Tools </a>. Nucleic Acids Res. 2015 (Web Server issue) in press.
+<a href='http://nar.oxfordjournals.org/content/early/2015/04/21/nar.gkv362.full' target="_blank"> RSAT 2015: Regulatory Sequence Analysis Tools </a>. Nucleic Acids Res. 2015 (Web Server issue) in press.
 
 
 * Several protocols have been published to guide new users. *Some of the content might be outdated, but the theory and general principles are still valid*
