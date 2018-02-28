@@ -65,8 +65,6 @@ Also check the map of the tools (version 2012):
 
 ![gras](http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png)
 
-<a href="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png"><IMG border=1 SRC="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png" ALT="flowchart RSAT" height=200/></a>
-
 #### Even more resources...
 
 * Workshop: [ChIP-Seq Data Analysis](http://morganetc.github.io/atelier_chip-seq_roscoff_2014/), in the context of Ecole de bioinformatique AVIESAN 2014, Station Biologique, Roscoff, France.
