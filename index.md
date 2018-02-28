@@ -45,7 +45,7 @@ Protoc, 3,1604-1615.
 
 #### Hands-on Tutorials
 
-* Tutorials of individual tools on the RSAT Web site: [http://teaching.rsat.eu/tutorials/](http://teaching.rsat.eu/tutorials/)
+* Tutorials of individual tools on the RSAT Web site: [http://teaching.rsat.eu/tutorials.php](http://teaching.rsat.eu/tutorials.php)
 
 * ECCB 2014 tutorial (covers access via Web site, command-line and Web services): 
 	<a target='_blank' href="http://rsa-tools.github.io/tutorial_eccb14/index.html"> Analysis of Cis-Regulatory Motifs from High-Throughput Sequence Sets</a>.
