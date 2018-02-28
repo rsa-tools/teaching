@@ -10,8 +10,6 @@ RSAT servers have been up and running since 1997. The project was initiated by *
 
 ![gras](images/F1.large.jpg)
 
-<a href="images/F1.large.jpg"><IMG border=1 SRC="images/F1.large.jpg" ALT="Guide to RSAT programs" height=200/></a>
-
 #### A dedicated server for learning
 
 To learn how to use RSAT, we recommend you to use the dedicated server [http://teaching.rsat.eu/](http://teaching.rsat.eu/).
@@ -61,15 +59,17 @@ Protoc, 3,1604-1615.
 
 The home page of each RSAT server has a section to help finding the appropriate program, based on the type of data and question. Only main tasks are supported, as this is meant to new users.
 
-<a href="http://teaching.rsat.eu" target="_blank"><IMG border=1 SRC="images/dropdown_questions.png" ALT="Guide to RSAT programs" height=200/></a>
+![gras](images/dropdown_questions.png)
 
 Also check the map of the tools (version 2012):
+
+![gras](http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png)
 
 <a href="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png"><IMG border=1 SRC="http://pedagogix-tagc.univ-mrs.fr/rsat/images/RSAT_flowchart_2011.png" ALT="flowchart RSAT" height=200/></a>
 
 #### Even more resources...
 
-* Workshop: [ChIP-Seq Data Analysis] (http://morganetc.github.io/atelier_chip-seq_roscoff_2014/), in the context of Ecole de bioinformatique AVIESAN 2014, Station Biologique, Roscoff, France.
+* Workshop: [ChIP-Seq Data Analysis](http://morganetc.github.io/atelier_chip-seq_roscoff_2014/), in the context of Ecole de bioinformatique AVIESAN 2014, Station Biologique, Roscoff, France.
 
 * Course by Jacques van Helden : [Statistics for bioinformatics](http://pedagogix-tagc.univ-mrs.fr/courses/statistics_bioinformatics/)
  
