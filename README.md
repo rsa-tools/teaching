@@ -1,5 +1,7 @@
-# teaching
-Teaching and training material to learn how use RSAT
+# Teaching
+
+
+Web portal to access the teaching and training material for the Regulatory Sequence Analysis Tools tRSAT)
 
 See website :
-http://rsat-doc.github.io/teaching/
+http://rsa-tools.github.io/teaching/
